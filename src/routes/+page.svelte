@@ -6,6 +6,7 @@
   </script>
   
   <div class="grid grid-cols-3">
+<h1>hi</>
     <Card1/>
      <Myforms/>
      <Card2/>
