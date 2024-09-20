@@ -1,0 +1,15 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* ml-auto mr-28 h-auto w-full container shadow-2xl shadow-neutral-900 */
+
+.card {
+    /* width: 200vh; */
+    /* height: 145vh; */
+    /* margin: 20px; */
+}
+.form{
+    width: 100vh;
+    height: 80vh;
+}
